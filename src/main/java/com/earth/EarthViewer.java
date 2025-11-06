@@ -1,4 +1,4 @@
-package com.earth; 
+package com.earth;
 
 import java.awt.Desktop;
 import java.net.URI;
