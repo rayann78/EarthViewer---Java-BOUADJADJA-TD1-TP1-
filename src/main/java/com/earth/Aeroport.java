@@ -1,6 +1,6 @@
 package com.earth;
 
-public class Aeroport {
+public class Aeroport { 
     private String name;
     private String codeIATA;
     private double latitude;
