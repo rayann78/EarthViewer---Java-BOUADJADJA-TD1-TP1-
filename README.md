@@ -1,7 +1,7 @@
 # ✈️ Catch Me If You Can — EarthViewer 🌍
 
 Projet JavaFX développé dans le cadre du TP **"Catch Me If You Can"** (ENSEA 2024-2025).
-
+ 
 ## 🎯 Objectif du projet
 
 Créer une application Java permettant d'afficher une **Terre 3D interactive** et d’exploiter des données réelles d’aviation :
